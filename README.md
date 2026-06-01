@@ -1,23 +1,191 @@
-<h1 align="center">Hi 👋, I'm Abhimanyu Prasad</h1>
-<h3 align="center">class Abhimanyu{ Abhimanyu(Programmer Medium_Level,Developer Developed some websites){Learning for a better world for me and you.}}</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadji007&label=Profile%20views&color=0e75b6&style=flat" alt="prasadji007" /> </p>
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Abhimanyu+Prasad+%F0%9F%91%8B;Backend+Engineer+%7C+TCS;Spring+Boot+%7C+Node.js+%7C+Azure+%7C+AKS;Building+MediLink+AI+%F0%9F%8F%A5;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 💬 Ask me about **Coding,Web Development,Wix Tools,**
-
-- 📫 How to reach me **prasad.1177444@gmail.com**
-
-- ⚡ Fun fact **AI is not funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prasad11774/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad11774/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rvtxxabhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rvtxxabhi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rvtxxabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rvtxxabhi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prasadji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasadji/" height="30" width="40" /></a>
+<!-- Social Badges -->
+<p>
+  <a href="https://linkedin.com/in/prasad11774/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/prasadji/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/rvtxxabhi" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/rvtxxabhi" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="mailto:prasad.1177444@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<!-- Profile Views + Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=prasadji007&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/prasadji007?style=for-the-badge&color=6366f1&label=FOLLOWERS" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasadji007&show_icons=true&locale=en" alt="prasadji007" /></p>
+</div>
+
+---
+
+## `$ whoami`
+
+```java
+public class Abhimanyu {
+
+    String name        = "Abhimanyu Prasad";
+    String role        = "Assistant System Engineer @ TCS";
+    String location    = "Kolkata, India 🇮🇳";
+    int    experience  = 2; // years
+
+    String[] currentWork = {
+        "Building microservices on Azure / AKS",
+        "Crafting MediLink AI — a Spring Boot healthcare platform",
+        "Deep-diving DSA & system design for top-tier interviews"
+    };
+
+    String[] interests = {
+        "Backend Architecture", "Cloud-Native Systems",
+        "Stock Market Analysis", "AI/ML Integration"
+    };
+
+    String superpower  = "Turning coffee ☕ into scalable APIs";
+}
+```
+
+---
+
+## `$ cat tech_stack.json`
+
+### ⚡ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,html,css&theme=dark" />
+</p>
+
+### 🏗️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+</p>
+
+### ☁️ Cloud, DevOps & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,gcp,git,linux&theme=dark" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
+</p>
+
+### 🛠️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,vscode,github,maven,bootstrap&theme=dark" />
+</p>
+
+---
+
+## `$ top --sort=skill`
+
+```
+SKILL                    PROFICIENCY    [████████████████████] %
+─────────────────────────────────────────────────────────────────
+Java / Spring Boot       ████████████████████  95%
+Node.js / TypeScript     ████████████████░░░░  80%
+Azure / AKS / Helm       ███████████████░░░░░  75%
+Microservices Design     ████████████████████  90%
+REST API Design          ████████████████████  95%
+MongoDB / Cosmos DB      █████████████████░░░  85%
+Docker / Kubernetes      ███████████████░░░░░  75%
+PostgreSQL / Redis       ██████████████░░░░░░  70%
+DSA / Problem Solving    ████████████████░░░░  80%
+System Design            ███████████████░░░░░  75%
+```
+
+---
+
+## `$ ls -la projects/`
+
+### 🏥 MediLink AI
+> A production-grade **Spring Boot** healthcare platform integrating AI-powered patient management, appointment scheduling, and medical record analysis.
+>
+> `Spring Boot` · `PostgreSQL` · `Azure` · `LLM Integration` · `REST APIs`
+
+---
+
+### 💼 Jobify
+> Full-stack job-matching platform powered by **GPT-4 embeddings** and **LangChain** — dual MongoDB/PostgreSQL strategy with Redis caching for blazing-fast matching.
+>
+> `Spring Boot` · `LangChain` · `GPT-4` · `MongoDB` · `PostgreSQL` · `Redis`
+
+---
+
+## `$ git log --oneline --graph`
+
+<div align="center">
+
+<!-- GitHub Stats Cards -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=prasadji007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadji007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadji007&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadji007&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## `$ ping goals.txt`
+
+```
+> Ace system design rounds at Goldman Sachs / Deloitte USI / PwC
+> Ship MediLink AI to production
+> Contribute to open-source Spring Boot ecosystem
+> Master cloud-native patterns on Azure AKS
+> Never stop learning. Never stop building.
+```
+
+---
+
+## `$ crontab -l  # what I do daily`
+
+| Time | Activity |
+|------|----------|
+| 🌅 Morning | Leetcode DSA warm-up |
+| 💻 Day | Microservices @ TCS + MediLink AI dev |
+| 📈 Evening | Stock market analysis (TradingView + Pine Script) |
+| 🌙 Night | System design deep dives + interview prep |
+
+---
+
+<div align="center">
+
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/prasadji007/prasadji007/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<!-- Footer quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/>
+
+**"First, solve the problem. Then, write the code."** — John Johnson
+
+<br/>
+
+*Open to exciting backend / fullstack opportunities — let's connect!*
+
+</div>
