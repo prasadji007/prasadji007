@@ -181,7 +181,6 @@ System Design                 ███████████████░�
 ## `$ ping goals.txt`
 
 ```
-> Ace system design at Goldman Sachs / Deloitte USI / PwC
 > Ship MediLink AI to production with full Agentic AI pipeline
 > Build a production LangGraph multi-agent orchestration system
 > Contribute to open-source LangChain / Spring AI ecosystem
