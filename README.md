@@ -144,13 +144,6 @@ System Design                 ███████████████░�
 
 ---
 
-### Smart Money Strategy
-> Custom TradingView Pine Script v5 indicator combining EMA, RSI, VWAP, MACD, Supertrend, and Fibonacci with a composite scoring system for Indian equities (MRF, HDFC Bank, Adani Green).
->
-> `Pine Script v5` `TradingView` `Technical Analysis`
-
----
-
 ## `$ git log --oneline --graph`
 
 <div align="center">
@@ -169,35 +162,6 @@ System Design                 ███████████████░�
 </div>
 
 ---
-
-## Snake Animation Setup
-
-> Add `.github/workflows/snake.yml` to your profile repo, then run the workflow manually once:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 <div align="center">
 
